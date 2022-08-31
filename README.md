@@ -1,2 +1,2 @@
 # odin-recursion
-The Odin project - Recursion
+https://www.theodinproject.com/lessons/javascript-recursion
